@@ -16,7 +16,7 @@ The program will as the user to choose how many characters they would like in th
 
 
 ## Deployment 
-![Password Generator](https://manindermanan.github.io/03-password-generator/)
+https://manindermanan.github.io/03-password-generator/
 
 MIT License
 
