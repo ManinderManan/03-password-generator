@@ -7,6 +7,16 @@ The program will as the user to choose how many characters they would like in th
 
 ## Preview
 
+![characters-demo](./images/Characters.png)
+![uppercase-demo](./images/Uppercase%20Letters.png)
+![lowercase-demo](./images/Lowercase%20Letters.png)
+![numbers-demo](./images/Numbers.png)
+![symbols-demo](./images/Symbols.png)
+![password-gen-demo](./images/Password.png)
+
+
+## Deployment 
+![Password Generator](https://manindermanan.github.io/03-password-generator/)
 
 MIT License
 
